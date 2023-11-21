@@ -1,3 +1,5 @@
+// Designed by 🍋Lemon in California
+
 #include <iostream>
 #include <unistd.h>
 #include <termios.h>
